@@ -1,0 +1,10 @@
+# Ignore your virtual‐env folder
+venev/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*.pyd
+
+# macOS
+.DS_Store
